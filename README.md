@@ -1,7 +1,4 @@
 ![Anpiarur](https://socialify.git.ci/Anpiarur/Anpiarur/image?description=1&descriptionEditable=&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
-# Hello, I'm [Angela Ruiz] 👋
-
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Angela Ruiz </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anpiarur&label=Profile%20views&color=0e75b6&style=flat" alt="Anpiarur" /> </p>
 
@@ -36,7 +33,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anpiarur&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anpiarur&theme=2077" height="180em" />
 </div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-Happy coding! 🚀
