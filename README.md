@@ -1,4 +1,4 @@
-![Anpiarur](https://socialify.git.ci/Anpiarur/Anpiarur/image?description=1&descriptionEditable=&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
+![Anpiarur](https://socialify.git.ci/Anpiarur/Anpiarur/image?font=Source%20Code%20Pro&name=1&pattern=Signal&theme=Dark)
 <h1 align="center">Hi 👋, I'm Angela Ruiz </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anpiarur&label=Profile%20views&color=0e75b6&style=flat" alt="Anpiarur" /> </p>
 
