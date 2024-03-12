@@ -1,5 +1,5 @@
 ![Anpiarur](https://socialify.git.ci/Anpiarur/Anpiarur/image?font=Source%20Code%20Pro&name=1&pattern=Signal&theme=Dark)
-<h1 align="center">Hi 👋, I'm Angela Ruiz </h1>
+<h1 align="center">Hi 👋, I'm Angela </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anpiarur&label=Profile%20views&color=0e75b6&style=flat" alt="Anpiarur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anpiarur&theme=" alt="Anpiarur" /></a> </p>
