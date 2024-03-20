@@ -45,10 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Anpiarur/Anpiarur/main/snake.svg" alt="Snake animation" />
-
-###
 
 
