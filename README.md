@@ -1,8 +1,6 @@
 <img src="https://socialify.git.ci/Anpiarur/Anpiarur/image?font=Source%20Code%20Pro&name=1&pattern=Signal&theme=Dark" alt="Anpiarur" width="100%" height="auto">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD29B1&random=false&width=435&lines=Hi%2C+I'm+Angela+)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anpiarur&label=Profile%20views&color=0e75b6&style=flat" alt="Anpiarur" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=BD29B1&center=true&vCenter=true&random=false&width=457&height=79&lines=Hi%2C+I'm+Angela+)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anpiarur&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
