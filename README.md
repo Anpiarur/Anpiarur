@@ -9,9 +9,9 @@
 </div>
 
 ###
-
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&pause=1000&color=FF79C6&center=true&vCenter=true&random=false&width=435&lines=Herramientas+)](https://git.io/typing-svg)
+<div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
