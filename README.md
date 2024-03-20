@@ -31,4 +31,116 @@
   </a>
 </div>
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dinosaurio</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden; /* Evita la barra de desplazamiento horizontal */
+    }
+
+    #contenedor {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+    }
+
+    #piso {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 50px;
+      background-color: green; /* Color del suelo */
+    }
+
+    #dinosaurio {
+      position: absolute;
+      bottom: 0;
+      left: 50px;
+      width: 50px;
+      height: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div id="contenedor">
+    <img src="img/dinosaurio.png" id="dinosaurio">
+    <div id="piso"></div>
+  </div>
+
+  <script>
+    const dinosaurio = document.getElementById("dinosaurio");
+    const piso = document.getElementById("piso");
+    let saltando = false;
+
+    document.addEventListener("keydown", function(event) {
+      if (event.code === "Space" && !saltando) {
+        saltar();
+      }
+    });
+
+    function saltar() {
+      saltando = true;
+      let altura = 0;
+      const intervalo = setInterval(function() {
+        altura += 5;
+        dinosaurio.style.bottom = altura + "px";
+        if (altura >= 100) {
+          clearInterval(intervalo);
+          setTimeout(function() {
+            bajar();
+          }, 100);
+        }
+      }, 20);
+    }
+
+    function bajar() {
+      let altura = 100;
+      const intervalo = setInterval(function() {
+        altura -= 5;
+        dinosaurio.style.bottom = altura + "px";
+        if (altura <= 0) {
+          clearInterval(intervalo);
+          saltando = false;
+        }
+      }, 20);
+    }
+
+    function crearObstaculo() {
+      const obstaculo = document.createElement("img");
+      obstaculo.src = "img/obstaculo.png";
+      obstaculo.className = "obstaculo";
+      piso.appendChild(obstaculo);
+      const movimientoObstaculo = setInterval(function() {
+        const posicion = obstaculo.offsetLeft;
+        if (posicion <= -50) {
+          clearInterval(movimientoObstaculo);
+          piso.removeChild(obstaculo);
+        } else {
+          obstaculo.style.left = posicion - 5 + "px";
+          if (posicion < 50 && posicion > 0 && dinosaurio.style.bottom === "0px") {
+            alert("Game Over");
+          }
+        }
+      }, 20);
+    }
+
+    setInterval(function() {
+      const numeroAleatorio = Math.random();
+      if (numeroAleatorio < 0.1) {
+        crearObstaculo();
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
+
+
 
