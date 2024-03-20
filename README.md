@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Anpiarur/Anpiarur/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Anpiarur/Anpiarur/main/snake.svg" alt="Snake animation" />
 
 ###
 
