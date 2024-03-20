@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/Anpiarur/Anpiarur/image?font=Source%20Code%20Pro&name=1&pattern=Signal&theme=Dark" alt="Anpiarur" width="400" height="200">
+<img src="https://socialify.git.ci/Anpiarur/Anpiarur/image?font=Source%20Code%20Pro&name=1&pattern=Signal&theme=Dark" alt="Anpiarur" width="100%" height="auto">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD29B1&random=false&width=435&lines=Hi%2C+I'm+Angela+)](https://git.io/typing-svg)
