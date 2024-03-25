@@ -72,9 +72,6 @@
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
   <img src='https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical'>
-
-  <h3>😂 Random Dev Meme</h3>
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
 ---
