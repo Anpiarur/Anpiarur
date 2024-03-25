@@ -49,6 +49,15 @@
 <br>
 <br>
 <br>
+<div align="center>
+    ## Contact
+
+Feel free to reach out to me via email at [angelaruizdev@gmail.com](mailto:angelaruizdev@gmail.com) for any inquiries or collaborations.
+</div>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center" margin-top="50px">
     <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
