@@ -1,5 +1,4 @@
-<h1 align="center"><span style="color: #FF79C6;">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"/></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></span></h1>
-
+<h1 align="center"><font color="#FF79C6">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 </font><𝚌𝚘𝚍𝚎𝚛𝚜><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <br>
 
