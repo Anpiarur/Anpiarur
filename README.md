@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=Hi%2C+I'm+Angela+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=+I'm+Angela+)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anpiarur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
