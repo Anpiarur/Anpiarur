@@ -1,12 +1,13 @@
 ﻿<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
-
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=+I'm+Angela+)[](https://git.io/typing-svg)
-<br>
+<div align="center">
+    <div style="display: inline-block; text-align: left;">
+        <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+    </div>
+    <div style="display: inline-block; text-align: right;">
+        ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=+I'm+Angela+)[](https://git.io/typing-svg)
+    </div>
+</div>
 
 
 <div align="center">
