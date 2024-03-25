@@ -55,21 +55,23 @@
   <a href="https://www.linkedin.com/angela2r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="malito:angelaruizdev@gmail.com" target="_blank">
+  <a href="mailto:angelaruizdev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="[angelaruizdev](https://www.hackerrank.com/profile/angelaruizdev)" target="_blank">
+  <a href="https://www.hackerrank.com/profile/angelaruizdev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="anpiarur" target="_blank">
+  <a href="https://dev.to/anpiarur" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
 </div>
-### ✍️ Random Dev Quote
-<img src='https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical'>
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src='https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical'>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  <h3>😂 Random Dev Meme</h3>
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anpiarur&icon=2&color=11)](https://visitcount.itsvg.in)
