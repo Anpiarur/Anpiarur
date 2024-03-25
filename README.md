@@ -16,7 +16,10 @@
 <img src="https://github-profile-trophy.vercel.app?username=Anpiarur&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=+Tech+Stack+)[](https://git.io/typing-svg)
+<div align="center">
+<h1>Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br><br></h1>
+</div>
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
