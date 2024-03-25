@@ -51,7 +51,7 @@
 <br>
 
 <div align="center">
-   <h3>How to reach me <img src="octocat-1711366290046.png" alt="Octocat" width="150">  </h3>
+   <h3><img src="octocat-1711366290046.png" alt="Octocat" width="150">  How to reach me </h3>
   <a href="https://www.linkedin.com/angela2r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
