@@ -3,6 +3,9 @@
 <br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=+I'm+Angela+)[](https://git.io/typing-svg)
+<br>
+[![Matrix SVG](https://raw.githubusercontent.com/Anpiarur/Anpiarur/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anpiarur&locale=en&hide\_title=false&layout=compact&card\_width=320&langs\_count=5&theme=dracula&hide\_border=true&order=2" height="150" alt="languages graph" />
