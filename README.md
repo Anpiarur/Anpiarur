@@ -52,7 +52,7 @@
 <div align="center>
     ## Contact
 
-Feel free to reach out to me via email at [angelaruizdev@gmail.com](mailto:angelaruizdev@gmail.com) for any inquiries or collaborations.
+📫 How to reach me [angelaruizdev@gmail.com](mailto:angelaruizdev@gmail.com) for any inquiries or collaborations.
 </div>
 <br>
 <br>
