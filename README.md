@@ -51,6 +51,7 @@
 <br>
 
 <div align="left">
+    <h1>![Octocat](/Anpiarur/octocat-1711366290046.png) How to reach me </h1>
   <a href="https://www.linkedin.com/angela2r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
