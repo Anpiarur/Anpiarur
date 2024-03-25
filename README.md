@@ -5,7 +5,7 @@
         <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
     </div>
     <div style="display: inline-block; text-align: right;">
-        ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=+I'm+Angela+)[](https://git.io/typing-svg)
+      ﻿<h1 >**I'm Angela** <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" /><img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="160" />></h1>
     </div>
 </div>
 
