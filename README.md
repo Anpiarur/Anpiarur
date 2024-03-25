@@ -49,11 +49,7 @@
 <br>
 <br>
 <br>
-<div align="center>
-    ## Contact
-
-📫 How to reach me (mailto:angelaruizdev@gmail.com) for any inquiries or collaborations.
-</div>
+- 📫 How to reach me **angelaruizdev@gmail.com**
 <br>
 <br>
 <br>
