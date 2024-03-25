@@ -2,7 +2,7 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
-<br>
+
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=+I'm+Angela+)[](https://git.io/typing-svg)
