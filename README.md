@@ -8,7 +8,7 @@
 </div>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=Hi%2C+Tech+Stack+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&pause=1000&color=FF79C6&center=true&random=false&width=500&height=100&lines=2C+Tech+Stack+)](https://git.io/typing-svg)
 ###
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
