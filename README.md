@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-<h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> Tech Stack
-</h1>
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> Tech Stack
+</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -51,7 +51,7 @@
 <br>
 
 <div align="center">
-   <h1> <img src="octocat-1711366290046.png" alt="Octocat" width="200"> How to reach me: </h1>
+   <h3> <img src="octocat-1711366290046.png" alt="Octocat" width="200"> How to reach me: </h3>
   <a href="https://www.linkedin.com/angela2r" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
